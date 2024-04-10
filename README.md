@@ -84,12 +84,23 @@ This is a Movie Ticket Booking Website built using the MERN (MongoDB, Express.js
 
 ### Website overview
 - Home Page
+- ![Screenshot (141)](https://github.com/sayyeddilshadali16/movie-ticket-booking-app/assets/142899602/9dea31d7-49e9-4754-a33f-7d0146c5692b)
+- ![Screenshot (142)](https://github.com/sayyeddilshadali16/movie-ticket-booking-app/assets/142899602/bcbfebeb-5e2e-401a-b227-69af9a1e59a6)
+- ![Screenshot (143)](https://github.com/sayyeddilshadali16/movie-ticket-booking-app/assets/142899602/4f9aaaa4-5d3b-438e-b577-9aa6d3ffdcbb)
 - Stream Page
+- ![Screenshot (146)](https://github.com/sayyeddilshadali16/movie-ticket-booking-app/assets/142899602/0f301f89-cc9f-47fb-9989-1f784e1db573)
 - Booking Page
+- ![Screenshot (147)](https://github.com/sayyeddilshadali16/movie-ticket-booking-app/assets/142899602/a8a45af0-8b1b-4335-b489-123b9176293c)
 - Live Page
+- ![Screenshot (148)](https://github.com/sayyeddilshadali16/movie-ticket-booking-app/assets/142899602/c84dabb4-18aa-4b5a-ba1b-96c767520ea8)
 - Search Page
+- ![Screenshot (144)](https://github.com/sayyeddilshadali16/movie-ticket-booking-app/assets/142899602/abb0c725-cede-4f8b-897e-5c2de40d3983)
 - Update Page
- 
+- ![Screenshot (149)](https://github.com/sayyeddilshadali16/movie-ticket-booking-app/assets/142899602/c452c5ff-23b5-4d2d-a2a0-9f946c09fea4)
+- Footer
+- ![Screenshot (145)](https://github.com/sayyeddilshadali16/movie-ticket-booking-app/assets/142899602/5d516c97-7521-4fab-88df-6c402147e6c7)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
