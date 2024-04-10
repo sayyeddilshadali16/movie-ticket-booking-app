@@ -5,6 +5,16 @@ This is a Movie Ticket Booking Website built using the MERN (MongoDB, Express.js
 - Browse a variety of movies.
 - View movie details including synopsis, cast, and showtimes.
 - Book tickets for preferred showtimes.
+- Display a list of available tickets.
+- Show details of a ticket when clicked.
+- Display a confirmation message after booking.
+- MongoDB database for storing ticket information.
+- RESTful API with Express.js for managing tickets.
+- React Router for navigation between pages.
+- Axios for API calls from React to Node.js.
+- Error handling and form validation.
+- Ticket filtering based on movie name.
+- Allow users to cancel their booked tickets.
   
 
 ## Setup Instructions
